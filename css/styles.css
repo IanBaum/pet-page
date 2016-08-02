@@ -1,0 +1,19 @@
+h1 {
+  font-family: serif;
+  font-color: orange;
+}
+
+h2 {
+  font-family: serif;
+  font-color: pink;
+}
+
+h3 {
+  font-family: serif;
+  font-color: red;
+}
+
+img {
+  width: 500px;
+  height: auto;  
+}
